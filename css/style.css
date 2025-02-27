@@ -1,0 +1,11 @@
+.btn-selected {
+    border: 2px solid #CCC;
+    border-radius: 50%;
+    padding: 8px;
+    /* transition: transform 0.3s; */
+}
+
+/* This is meant to overide tailwinds hover effect on selected buttons, but it snot working */
+/* .btn-selected:hover {
+    transform: scale(1) !important;
+} */
